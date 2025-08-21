@@ -1,0 +1,9 @@
+Flask==2.3.2
+torch==2.2.0
+torchaudio==2.2.0
+opencv-python==4.9.0.73
+pytesseract==0.3.11
+ffmpeg-python==1.2.0
+whisper==20230314
+numpy==1.26.0
+gunicorn==21.2.0
